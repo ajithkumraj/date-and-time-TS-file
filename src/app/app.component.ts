@@ -27,3 +27,4 @@ export class AppComponent  {
    .replace('{0}', time)
  }
 }
+
